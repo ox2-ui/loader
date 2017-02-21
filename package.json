@@ -1,6 +1,6 @@
 {
   "name": "@ox2/loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic animated loading placeholder component.",
   "repository": {
     "type": "git",
