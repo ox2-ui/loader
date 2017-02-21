@@ -49,14 +49,15 @@
     "react-dom": "^15.4.2",
     "react-styleguidist": "^4.6.2",
     "react-test-renderer": "^15.4.2",
-    "rimraf": "^2.5.3",
-    "styled-components": "^1.4.3"
+    "rimraf": "^2.5.3"
   },
   "main": "./index.js",
   "engines": {
     "npm": "^3.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "styled-components": "^1.4.3"
+  },
   "peerDependencies": {
     "react": "^15.0.0",
     "react-dom": "^15.0.0"
