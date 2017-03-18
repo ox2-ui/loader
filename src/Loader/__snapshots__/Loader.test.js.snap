@@ -1,22 +1,29 @@
-exports[`test renders correctly 1`] = `
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
 <Loader>
   <styled.div>
     <div
-      className="iqtgeR">
+      className="iqtgeR"
+    >
       <styled.div>
         <div
-          className="cSGQWI">
+          className="cSGQWI"
+        >
           <styled.div>
             <div
-              className="fcVIZN" />
+              className="fcVIZN"
+            />
           </styled.div>
           <styled.div>
             <div
-              className="eBehfk" />
+              className="eBehfk"
+            />
           </styled.div>
           <styled.div>
             <div
-              className="dCaswc" />
+              className="dCaswc"
+            />
           </styled.div>
         </div>
       </styled.div>
